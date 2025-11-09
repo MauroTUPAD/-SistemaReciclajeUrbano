@@ -6,7 +6,7 @@
 
 > **Trabajo Final Integrador** - Bases de Datos I  
 > Sistema completo de gestión de centros de acopio y materiales reciclables con 10,000+ registros de prueba.
-
+> LINK A TODOS LOS ARCHIVOS EN DRIVE: https://drive.google.com/drive/folders/1HHgTrd_808dowNQoGdHTwLFXogmgcuS8?usp=sharing
 ---
 
 ## 📋 Tabla de Contenidos
