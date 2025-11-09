@@ -1,0 +1,23 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Java compiled
+*.class
+*.jar
+target/
